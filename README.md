@@ -5,10 +5,10 @@
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/yantenorio/projeto_api.git>
+$ git clone <https://github.com/yantenorio/TasksApp.git>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd projeto_api
+$ cd taskapp
 
 # Instale as dependências
 $ npm install
@@ -16,5 +16,4 @@ $ npm install
 # Execute a aplicação 
 $ node app.js
 
-# O servidor inciará na porta:3000 - acesse <http://localhost:3000/products>
 ```
