@@ -1,5 +1,5 @@
 <h1> TasksApp </h1>
-<p>Lista de Tarefas em react native<p> 
+<p>Lista de Tarefas em react native.<p> 
   
   ### 🎲 Rodando o Servidor
 
